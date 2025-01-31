@@ -1,0 +1,51 @@
+# .NET Core
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+.idea/
+.vscode/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.cab
+*.msi
+
+# Windows Installer package files
+*.msi
+*.cab
+
+# ASP.NET Core
+wwwroot/
+
+# DotCover
+.idea/
+*.dotCover
+
+# Rider IDE files
+.idea/
+
+# NPM
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# VS Code directories
+.vscode/
